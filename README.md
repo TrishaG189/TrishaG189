@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Trisha G 👋
 
-<!--
-**TrishaG189/TrishaG189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronics and Communication Engineering undergraduate at **NIT Meghalaya**, graduating in 2027, with a strong interest in software engineering, problem-solving, and building technology that makes a difference.
 
-Here are some ideas to get you started:
+I enjoy exploring how things work behind the scenes, learning new technologies, and turning ideas into practical solutions. I'm particularly interested in backend development, full-stack engineering, and the evolving world of AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little about me
+
+
+- 🌍 Google Summer of Code 2026 contributor
+- 🤝 **30+ merged PRs** across various open-source organisations
+- 💻 Solved 500+ DSA problems and enjoy competitive programming
+- 🤖 Exploring Generative AI, LLMs, and practical AI applications
+- 🎓 B.Tech in ECE at NIT Meghalaya (2027)
+- 🌱 Always looking to learn, collaborate, and contribute to meaningful work
+
+### Tech I enjoy working with
+
+**Languages:** C++, Python, JavaScript
+**Frontend:** React.js, HTML, CSS
+**Backend:** Node.js, Express.js, REST APIs
+**Database:** MongoDB, SQL
+**AI:** Gemini API, LLM Integration, Prompt Engineering
+**Tools:** Git, GitHub, Postman, VS Code
+
+### Beyond the code
+
+I enjoy participating in coding competitions, contributing to open source, exploring new technologies, and learning from people who build interesting things.
+
+I'm always open to connecting with fellow developers, collaborating on ideas, and contributing to open-source projects.
+
+### Let's connect!
+
+- [LinkedIn](https://www.linkedin.com/in/trisha-gowthaboina)
+- [LeetCode](https://leetcode.com/u/Trisha189/)
+
+*Always learning, always building, and always curious.* 🚀
